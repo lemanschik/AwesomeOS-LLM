@@ -4,3 +4,7 @@ It is a New Class of Operating Systems designed to create performant software fo
 
 ## Concept
 We generate a Kernel then we create the bootloader then we execute a Application that can be show anything, and display anything as also do anything. 
+
+## First goal 
+
+- Visual Repl
